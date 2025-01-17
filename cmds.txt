@@ -1,2 +1,5 @@
 python3 -m venv cvenv
 source cvenv/bin/activate
+git clone https://github.com/JagdishChakole/Computer-Vision-CVDL
+git push --set-upstream origin main 
+git push
