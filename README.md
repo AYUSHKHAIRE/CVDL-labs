@@ -57,7 +57,7 @@ source cvenv/bin/activate
 Activate the virtual environment:
 
 ```bash
-cvenv\Scriptsctivate
+cvenv\Scripts/activate
 ```
 
 #### Step 4: Install Dependencies
